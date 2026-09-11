@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cstang1214.github.io/PockRomWeb/sitemap.xml
