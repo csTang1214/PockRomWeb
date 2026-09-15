@@ -1,6 +1,6 @@
 # PockRomWeb
 
-Marketing website for **AICompanion** — a free, offline AI companion app for Android.
+Marketing website for **PocketRomance** — a free, offline AI companion app for Android.
 
 Plain static HTML/CSS/JS, no build step, hosted on GitHub Pages.
 
